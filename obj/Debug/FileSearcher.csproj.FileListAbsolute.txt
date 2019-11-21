@@ -1,0 +1,8 @@
+C:\Users\SH391MS\source\repos\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\SH391MS\source\repos\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\SH391MS\source\repos\FileSearcher\obj\Debug\FileSearcher.csprojAssemblyReference.cache
+C:\Users\SH391MS\source\repos\FileSearcher\obj\Debug\FileSearcher.MainForm.resources
+C:\Users\SH391MS\source\repos\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\SH391MS\source\repos\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.cache
+C:\Users\SH391MS\source\repos\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\SH391MS\source\repos\FileSearcher\obj\Debug\FileSearcher.pdb
